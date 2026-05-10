@@ -1,1 +1,1 @@
-Hola Mundo - Modulo Clientes
+Hola Mundo - Modulo Clientes y Panel Administrativo
